@@ -1,0 +1,15 @@
+{
+  "name": "antilightapi",
+  "version": "0.0.1",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Czechian#8900",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
